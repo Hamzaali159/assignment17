@@ -1,0 +1,91 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    margin-left: 50px;
+    width: 890px;
+    height: 550px;
+    background: linear-gradient(135deg, #022c18 40%, white 40%);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+
+    margin: 40px 80px 40px 400px;
+}
+
+.right-penel {
+    position: absolute;
+    left: 790px;
+    top: 200px;
+}
+
+form {
+    height: 100vh;
+    position: absolute;
+    left: 30px;
+}
+
+input {
+    padding: 10px 100px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    font-size: 16px;
+    outline: none;
+}
+
+
+.Signin {
+    padding: 10px 170px;
+    border-radius: 20px;
+    margin-top: 20px;
+    border: 1px solid green;
+    background-color: white;
+    font-size: 15px;
+    color: green;
+}
+
+h2 {
+    font-size: 40px;
+    padding-bottom: 20px;
+    font-weight: lighter;
+    opacity: 80%;
+}
+
+label {
+    color: gray;
+    padding: 10px 0px 10px 10px;
+}
+
+span {
+    color: red;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
+
+label {
+    font-size: 20px;
+}
+
+.left-penel {color: white;
+    position: absolute;
+top: 150px;
+left: 500px;
+font-size: 20px;
+}
+h1{ color: white;
+font-size: 40px;
+padding-bottom: 30px;}
+p{ 
+    padding-bottom: 30px;
+}
+.Signup{ border-radius: 30px;
+padding: 15px 40px;
+border: 1px solid white;
+background-color: #0f9d58;
+color: white;
+font-size: 18px;}
